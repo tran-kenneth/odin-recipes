@@ -6,3 +6,7 @@
 .flex-container{
   display: flex;
 }
+
+.flex-item{
+  margin: 20px;
+}
